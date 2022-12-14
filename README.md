@@ -1,2 +1,1 @@
-# goit-markup-hw-02
-Home work
+https://andrewsydorenko.github.io/goit-markup-hw-02/
