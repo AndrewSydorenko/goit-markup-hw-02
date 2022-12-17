@@ -21,7 +21,7 @@ action color: #2196F3 */
 /* Боді */
 body {
 
-    font-family: 'Roboto', sans-serif, 'Raleway', sans-serif;
+    font-family: Roboto, sans-serif, Raleway, sans-serif;
     font-style: normal;
     color: var(--primary-text-color)
 }
