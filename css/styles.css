@@ -233,7 +233,6 @@ color: var(--title-text-color);
     color: var(--title-text-color);
 }
 .team-pos {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -245,7 +244,6 @@ color: var(--title-text-color);
 
 /* Buttons */
 .wrk-fltr .filter {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
@@ -256,7 +254,6 @@ color: var(--title-text-color);
 }
 .wrk-fltr .filter:hover,
 .wrk-fltr .filter:focus {
-    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-size: 16px;
